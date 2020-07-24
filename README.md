@@ -8,8 +8,8 @@ Information regarding the timing and the mode of the meet will be shared in the 
 ### Steps to follow if you want to give a talk:
 
 - Fill up your name and the topic in this [sheet](https://docs.google.com/spreadsheets/d/1EchoPKgD8OGT7zCAgT_Jo5TKiInWm2O9hZildyiRDW8/edit?usp=sharing)
-- Update the "Talks" table below
-- After your talk is done upload your presentation to the ppt folder (keep in mind the name: Talk[x], where [x] is the talk number)
+- Update the "Talks" table below (Make a PR)
+- After your talk is done upload your presentation to the ppt folder through a PR (keep in mind the name: Talk[x], where [x] is the talk number)
 - Make sure your talk is decided at least a week before its presentation
 
   
