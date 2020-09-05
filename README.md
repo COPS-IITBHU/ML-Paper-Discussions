@@ -1,5 +1,5 @@
 
-# ML Discussions
+# ML Paper Discussions
 
 ML Weekly Discussion is an initiative by COPS to foster the culture of Machine Learning in the college. Once every two weeks we present and discuss an interesting paper from any of the several fields of Machine Learning. This repository consists of presentations and the future talks that will be held. You can find the plan and the rules for the talk [HERE](https://docs.google.com/document/d/1tBZINGhNfpMWj0OuMwPbpLKHH1NL_PM2WibbKfmADPA/edit?usp=sharing)
 
