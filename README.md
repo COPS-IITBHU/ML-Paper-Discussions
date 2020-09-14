@@ -19,4 +19,5 @@ Information regarding the timing and the mode of the meet will be shared in the 
 |--|--|--|--|--|
 | 1 | Shravan  | 3-7-2020 | [Restricting The Flow: Information Bottlenecks For Attribution](https://arxiv.org/pdf/2001.00396.pdf) | Explainable AI, Computer Vision|
 | 2 | |  |  | |
+| 3| Rohan | 3-9-2020 | [Exoplanet habitability prediction using ML](https://www.researchgate.net/publication/338314976_CEESA_meets_machine_learning_A_Constant_Elasticity_Earth_Similarity_Approach_to_habitability_and_classification_of_exoplanets) |Fuzzy features ANN, Particle Swarm Optimization|
 
